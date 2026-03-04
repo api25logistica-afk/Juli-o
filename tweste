@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Imagem</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        img {
+            max-width: 90%;
+            height: auto;
+            border: 4px solid #ccc;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://scontent-gru1-2.cdninstagram.com/v/t51.2885-19/461163985_496598279906067_6190947294667277848_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-gru1-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2QE06wOiHMY7AsWbYID3XZl7kHZKJjc5qCK-KiSBLciDvMbGpz3d1lvwVDjBC315-7c&_nc_ohc=e3F432Z-q90Q7kNvwFRo-Fq&_nc_gid=ybC1F6KuKwKFlc5fF4oTDQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfzLQcKm0AVgB24tbXl5xHf1JPukKS2lSHtBpPlFabIoaQ&oe=69ADE7BA&_nc_sid=8b3546" alt="Imagem Instagram">
+</body>
+</html>
